@@ -1,0 +1,9 @@
+
+github:
+  client-id: Ov23liuOX60WtYLKOZUp
+  client-secret: e3ad284cfc2f5241145071fc316d131d2d998dd1
+  redirect-uri: http://localhost:8080/callback
+
+spring:
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
